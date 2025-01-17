@@ -1,9 +1,8 @@
 
 # Unpacman
+**unpacman** is a simple CLI tool to calculate and display the unpacked sizes of all dependencies in a `package.json` file. It highlights large package sizes, making it easier for developers to analyze dependency sizes directly from the terminal.
 
 ![npm](https://img.shields.io/npm/v/unpacman) ![License](https://img.shields.io/npm/l/unpacman) ![Downloads](https://img.shields.io/npm/dt/unpacman) ![TypeScript](https://badgen.net/badge/Built%20With/TypeScript/blue)
-
-**Unpacman** is a simple CLI tool to calculate and display the unpacked sizes of all dependencies in a `package.json` file. It highlights large package sizes, making it easier for developers to analyze dependency sizes directly from the terminal.
 
 ---
 
